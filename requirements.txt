@@ -1,6 +1,9 @@
 fastapi
-uvicorn
+uvicorn[standard]
 sqlmodel
-streamlit
+python-dotenv
 httpx
 pytest
+streamlit
+ultralytics
+opencv-python
